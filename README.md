@@ -1,4 +1,4 @@
-# Convolutional Neural Network Densenet
+# Convolutional Neural Network DenseNets
 
 Densely Connected Convolutional Networks are special architecture proposed by Gao Huang and team.
 
